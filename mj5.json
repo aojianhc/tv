@@ -1,0 +1,562 @@
+{
+    "sites": [ 
+        
+        {
+            "key": "稀饭资源",
+            "name": "宝盒福利",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/稀饭资源.json"
+        },
+        {
+            "key": "福利采集",
+            "name": "福利合集",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./lib/采集之王.js?type=url&params=../lib/采集福利.json$1$1"
+        },
+ {
+    "key": "奇优",
+    "name":"奇优资源",
+    "type": 3,
+        "api": "csp_XBPQ",
+       "jar":"./jar/spider2.jar",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "./lib/奇优福利.json"
+     
+ },
+ 
+{"key":"csp_XBPQ_色花堂","name":"色花视频","type":3,"api":"csp_XBPQ","jar": "./jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/色花堂.json"},
+{"key":"csp_XBPQ_黄仓库","name":"黄仓视频","type":3,"api":"csp_XBPQ","jar": "./jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/黄仓库.json"},
+{"key":"csp_XBPQ_GAOAA","name":"高啊视频","type":3,"api":"csp_XBPQ","jar": "./jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./lib/GAOAA.json"},
+        {
+            "key": "sae8",
+            "name": "色吧视频",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/sae8.json"
+        },
+        {
+            "key": "百花视频",
+            "name": "百花视频",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/百花视频.json"
+        },
+        {
+            "key": "国产视频",
+            "name": "国产视频",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/国产视频.json"
+        },
+        {
+            "key": "69资源",
+            "name": "九色视频",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/69色.json"
+        },
+        {
+            "key": "8002", 
+            "name": "悦妠资源", 
+            "type": 1, 
+            "api": "https://vnzyz.com/api.php/provide/vod/at/json/", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1
+        }, 
+        {
+            "key": "8003", 
+            "name": "湿乐园资源", 
+            "type": 1, 
+            "api": "https://xxavs.com/api.php/provide/vod/at/json/", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1
+        }, 
+        {
+            "key": "8008", 
+            "name": "CK资源", 
+            "type": 1, 
+            "api": "https://ckzy.me/api.php/provide/vod/?ac=list", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1
+        },
+        {
+            "key": "8012", 
+            "name": "大地资源", 
+            "type": 0, 
+            "api": "http://dadiapi.com/sea_api.php", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1
+        }, 
+        {
+            "key": "8013", 
+            "name": "麻豆资源", 
+            "type": 1, 
+            "api": "https://91md.me/api.php/provide/vod/?ac=list", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1
+        }, 
+    {
+      "key": "8020",
+      "name": "美少女资源",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "8022",
+      "name": "香奶儿资源",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "8023",
+      "name": "白嫖资源",
+      "type": 0,
+      "api": "https://www.kxgav.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "8024",
+      "name": "黄V资源",
+      "type": 0,
+      "api": "https://www.pgxdy.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+        {
+            "key": "xvideos",
+            "name": "成人视频",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/xvideos.json"
+        },
+        {
+            "key": "xtits",
+            "name": "XTITS",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/xtits.json"
+        },
+        {
+            "key": "whores",
+            "name": "WHORES",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/whores.json"
+        },
+        {
+            "key": "metube",
+            "name": "METUBE",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/metube.json"
+        },
+        {
+            "key": "javidol",
+            "name": "JAVIDL",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/javidol.json"
+        },
+        {
+            "key": "anal",
+            "name": "JAPONOPOR",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/anal.json"
+        },
+        {
+            "key": "anal2",
+            "name": "ANALE",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/anal2.json"
+        },
+        {
+            "key": "福利点播", 
+            "name": "福利点播", 
+            "type": 3, 
+            "searchable": 0, 
+            "api": "./lib/livevod.js", 
+            "ext": "./lib/18lives.json"
+        }
+    ], 
+    "lives": [
+        {
+            "name": "A媒体", 
+            "type": 0, 
+            "url": "./lives/alive.txt", 
+            "playerType": 2, 
+            "timeout": 10
+        }, 
+        {
+            "name": "B媒体", 
+            "type": 0, 
+            "url": "./lives/blive.txt", 
+            "playerType": 2, 
+            "timeout": 10
+        }, 
+        {
+            "name": "C媒体", 
+            "type": 0, 
+            "url": "./lives/clive.txt", 
+            "playerType": 2, 
+            "timeout": 10
+        }, 
+        {
+            "name": "D媒体", 
+            "type": 0, 
+            "url": "./lives/dlive.txt", 
+            "playerType": 2, 
+            "timeout": 10
+        }, 
+        {
+            "name": "E媒体", 
+            "type": 0, 
+            "url": "./lives/elive.txt", 
+            "playerType": 2, 
+            "timeout": 10
+        }, 
+        {
+            "name": "F媒体", 
+            "type": 0, 
+            "url": "./lives/flive.txt", 
+            "playerType": 2, 
+            "timeout": 10
+        }, 
+        {
+            "name": "G媒体", 
+            "type": 0, 
+            "url": "./lives/glive.txt", 
+            "playerType": 2, 
+            "timeout": 10
+        }, 
+        {
+            "name": "H媒体", 
+            "type": 0, 
+            "url": "./lives/hlive.txt", 
+            "playerType": 2, 
+            "timeout": 10
+        }, 
+        {
+            "name": "I媒体", 
+            "type": 0, 
+            "url": "./lives/ilive.txt", 
+            "playerType": 2, 
+            "timeout": 10
+        }
+    ], 
+    "parses": [
+        {
+            "name": "解析1", 
+            "type": 0, 
+            "url": "https://jx.hls.one/?url="
+        }, 
+        {
+            "name": "解析2", 
+            "type": 0, 
+            "url": "https://jiexi.789jiexi.com/?url="
+        }
+    ], 
+    "flags": [
+        "youku", 
+        "qq", 
+        "iqiyi", 
+        "qiyi", 
+        "letv", 
+        "sohu", 
+        "tudou", 
+        "pptv", 
+        "mgtv", 
+        "wasu", 
+        "bilibili"
+    ], 
+    "ijk": [
+        {
+            "group": "软解码", 
+            "options": [
+                {
+                    "category": 4, 
+                    "name": "opensles", 
+                    "value": "0"
+                }, 
+                {
+                    "category": 4, 
+                    "name": "overlay-format", 
+                    "value": "842225234"
+                }, 
+                {
+                    "category": 4, 
+                    "name": "framedrop", 
+                    "value": "1"
+                }, 
+                {
+                    "category": 4, 
+                    "name": "soundtouch", 
+                    "value": "1"
+                }, 
+                {
+                    "category": 4, 
+                    "name": "start-on-prepared", 
+                    "value": "1"
+                }, 
+                {
+                    "category": 1, 
+                    "name": "http-detect-range-support", 
+                    "value": "0"
+                }, 
+                {
+                    "category": 1, 
+                    "name": "fflags", 
+                    "value": "fastseek"
+                }, 
+                {
+                    "category": 2, 
+                    "name": "skip_loop_filter", 
+                    "value": "48"
+                }, 
+                {
+                    "category": 4, 
+                    "name": "reconnect", 
+                    "value": "1"
+                }, 
+                {
+                    "category": 4, 
+                    "name": "max-buffer-size", 
+                    "value": "5242880"
+                }, 
+                {
+                    "category": 4, 
+                    "name": "enable-accurate-seek", 
+                    "value": "0"
+                }, 
+                {
+                    "category": 4, 
+                    "name": "mediacodec", 
+                    "value": "0"
+                }, 
+                {
+                    "category": 4, 
+                    "name": "mediacodec-auto-rotate", 
+                    "value": "0"
+                }, 
+                {
+                    "category": 4, 
+                    "name": "mediacodec-handle-resolution-change", 
+                    "value": "0"
+                }, 
+                {
+                    "category": 4, 
+                    "name": "mediacodec-hevc", 
+                    "value": "0"
+                }
+            ]
+        }, 
+        {
+            "group": "硬解码", 
+            "options": [
+                {
+                    "category": 4, 
+                    "name": "opensles", 
+                    "value": "0"
+                }, 
+                {
+                    "category": 4, 
+                    "name": "overlay-format", 
+                    "value": "842225234"
+                }, 
+                {
+                    "category": 4, 
+                    "name": "framedrop", 
+                    "value": "1"
+                }, 
+                {
+                    "category": 4, 
+                    "name": "soundtouch", 
+                    "value": "1"
+                }, 
+                {
+                    "category": 4, 
+                    "name": "start-on-prepared", 
+                    "value": "1"
+                }, 
+                {
+                    "category": 1, 
+                    "name": "http-detect-range-support", 
+                    "value": "0"
+                }, 
+                {
+                    "category": 1, 
+                    "name": "fflags", 
+                    "value": "fastseek"
+                }, 
+                {
+                    "category": 2, 
+                    "name": "skip_loop_filter", 
+                    "value": "48"
+                }, 
+                {
+                    "category": 4, 
+                    "name": "reconnect", 
+                    "value": "1"
+                }, 
+                {
+                    "category": 4, 
+                    "name": "max-buffer-size", 
+                    "value": "5242880"
+                }, 
+                {
+                    "category": 4, 
+                    "name": "enable-accurate-seek", 
+                    "value": "0"
+                }, 
+                {
+                    "category": 4, 
+                    "name": "mediacodec", 
+                    "value": "1"
+                }, 
+                {
+                    "category": 4, 
+                    "name": "mediacodec-auto-rotate", 
+                    "value": "1"
+                }, 
+                {
+                    "category": 4, 
+                    "name": "mediacodec-handle-resolution-change", 
+                    "value": "1"
+                }, 
+                {
+                    "category": 4, 
+                    "name": "mediacodec-hevc", 
+                    "value": "1"
+                }
+            ]
+        }
+    ], 
+    "ads": [
+        "mimg.0c1q0l.cn", 
+        "www.googletagmanager.com", 
+        "www.google-analytics.com", 
+        "mc.usihnbcq.cn", 
+        "mg.g1mm3d.cn", 
+        "mscs.svaeuzh.cn", 
+        "cnzz.hhttm.top", 
+        "tp.vinuxhome.com", 
+        "cnzz.mmstat.com", 
+        "www.baihuillq.com", 
+        "s23.cnzz.com", 
+        "z3.cnzz.com", 
+        "c.cnzz.com", 
+        "stj.v1vo.top", 
+        "z12.cnzz.com", 
+        "img.mosflower.cn", 
+        "tips.gamevvip.com", 
+        "ehwe.yhdtns.com", 
+        "xdn.cqqc3.com", 
+        "www.jixunkyy.cn", 
+        "sp.chemacid.cn", 
+        "hm.baidu.com", 
+        "s9.cnzz.com", 
+        "z6.cnzz.com", 
+        "um.cavuc.com", 
+        "mav.mavuz.com", 
+        "wofwk.aoidf3.com", 
+        "z5.cnzz.com", 
+        "xc.hubeijieshikj.cn", 
+        "tj.tianwenhu.com", 
+        "xg.gars57.cn", 
+        "k.jinxiuzhilv.com", 
+        "cdn.bootcss.com", 
+        "ppl.xunzhuo123.com", 
+        "xomk.jiangjunmh.top", 
+        "img.xunzhuo123.com", 
+        "z1.cnzz.com", 
+        "s13.cnzz.com", 
+        "xg.huataisangao.cn", 
+        "z7.cnzz.com", 
+        "xg.huataisangao.cn", 
+        "z2.cnzz.com", 
+        "s96.cnzz.com", 
+        "q11.cnzz.com", 
+        "thy.dacedsfa.cn", 
+        "xg.whsbpw.cn", 
+        "s19.cnzz.com", 
+        "z8.cnzz.com", 
+        "s4.cnzz.com", 
+        "f5w.as12df.top", 
+        "ae01.alicdn.com", 
+        "www.92424.cn", 
+        "k.wudejia.com", 
+        "vivovip.mmszxc.top", 
+        "qiu.xixiqiu.com", 
+        "cdnjs.hnfenxun.com", 
+        "cms.qdwght.com"
+    ], 
+    "logo": "https://q.qlogo.cn/headimg_dl?dst_uin=571150140&spec=640"
+}
