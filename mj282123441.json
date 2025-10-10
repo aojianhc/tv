@@ -1,0 +1,314 @@
+﻿/*
+ * 影视仓接口数据
+ * 自动生成，请勿手动修改
+ * 更新时间: 2025-10-10 13:16:17
+ */
+{
+    "urls": [
+        {
+            "url": "https://d.kstore.dev/download/15352/ziyong3.json",
+            "name": "自用3",
+            "updated_at": "2025-10-10 13:16:17"
+        },
+        {
+            "url": "http://www.影视仓.com",
+            "name": "自用2",
+            "updated_at": "2025-10-10 09:42:55"
+        },
+        {
+            "url": "https://tvbox.catvod.com/pro/demo.json",
+            "name": "Vox",
+            "updated_at": "2025-10-10 09:37:00"
+        },
+        {
+            "url": "https://tvbox.catvod.com/FongMi.json",
+            "name": "真心",
+            "updated_at": "2025-10-10 09:35:40"
+        },
+        {
+            "url": "http://xhztv.top/4k.json",
+            "name": "聚玩盒",
+            "updated_at": "2025-10-10 09:32:35"
+        },
+        {
+            "url": "https://6492.kstore.space/xnf/xnf.json",
+            "name": "小脑斧",
+            "updated_at": "2025-10-10 09:31:49"
+        },
+        {
+            "url": "https://9xi4o.tk/tvbox.json",
+            "name": "自用1",
+            "updated_at": "2025-10-10 09:28:39"
+        },
+        {
+            "url": "https://3043.kstore.space/bhvip/bh/box.json",
+            "name": "宝盒没宝",
+            "updated_at": "2025-10-10 09:27:21"
+        },
+        {
+            "url": "https://7337.kstore.space/kjtv/自用测试.json",
+            "name": "4K自用",
+            "updated_at": "2025-10-10 09:24:29"
+        },
+        {
+            "url": "http://38.165.20.168/柒豪4K.json",
+            "name": "柒豪4K",
+            "updated_at": "2025-10-10 09:03:54"
+        },
+        {
+            "url": "https://d.kstore.dev/download/15352/fengrenji.json",
+            "name": "缝纫机",
+            "updated_at": "2025-10-09 16:49:24"
+        },
+        {
+            "url": "https://d.kstore.dev/download/15352/duanju.json",
+            "name": "短剧",
+            "updated_at": "2025-10-09 16:47:53"
+        },
+        {
+            "url": "https://d.kstore.dev/download/15352/yunshuche.json",
+            "name": "运输车",
+            "updated_at": "2025-10-09 16:45:53"
+        },
+        {
+            "url": "https://gitee.com/aojianhc/tvbox/raw/master/jiekou/lantianriji.json",
+            "name": "蓝天日记",
+            "updated_at": "2025-10-09 12:29:07"
+        },
+        {
+            "url": "https://szyyds.cn/tv/x.json",
+            "name": "小马",
+            "updated_at": "2025-10-09 10:37:47"
+        },
+        {
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "俊于",
+            "updated_at": "2025-10-06 16:33:06"
+        },
+        {
+            "url": "https://notabug.org/imbig66/tv-spider-man/raw/master//0801.json",
+            "name": "胖虎",
+            "updated_at": "2025-10-06 16:32:39"
+        },
+        {
+            "url": "https://hub.gitmirror.com/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+            "name": "四次元",
+            "updated_at": "2025-10-06 09:09:50"
+        },
+        {
+            "url": "http://www.0746lhl.top/box/lwytv.json",
+            "name": "六王爷",
+            "updated_at": "2025-10-06 09:09:13"
+        },
+        {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json",
+            "name": "小林",
+            "updated_at": "2025-10-06 09:08:49"
+        },
+        {
+            "url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json",
+            "name": "炫猪",
+            "updated_at": "2025-10-06 09:08:29"
+        },
+        {
+            "url": "https://9xi4o.tk/tvbox.json",
+            "name": "盐枭",
+            "updated_at": "2025-10-06 09:07:52"
+        },
+        {
+            "url": "https://api.hgyx.vip/hgyx.json",
+            "name": "HG",
+            "updated_at": "2025-10-06 09:06:37"
+        },
+        {
+            "url": "https://raw.liucn.cc/box/m.json",
+            "name": "刘备",
+            "updated_at": "2025-10-06 09:06:01"
+        },
+        {
+            "url": "https://dxawi.github.io/0/0.json",
+            "name": "dxawi",
+            "updated_at": "2025-10-06 09:05:44"
+        },
+        {
+            "url": "https://11293.kstore.space/%E8%A5%BF%E6%9F%9Ays.json",
+            "name": "西柚",
+            "updated_at": "2025-10-05 13:25:01"
+        },
+        {
+            "url": "https://jihulab.com/kgsp/tv/raw/box/666.json",
+            "name": "坤哥",
+            "updated_at": "2025-10-05 13:23:15"
+        },
+        {
+            "url": "https://9877.kstore.space/AnotherD/api.json",
+            "name": "小米",
+            "updated_at": "2025-10-05 13:22:37"
+        },
+        {
+            "url": "http://tv.aisimu.cn/tv/movie.json",
+            "name": "艾丝沐",
+            "updated_at": "2025-10-05 13:37:27"
+        },
+        {
+            "url": "https://9xi4o.tk/0725.json",
+            "name": "4K云盘",
+            "updated_at": "2025-10-05 13:19:02"
+        },
+        {
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "俊哥",
+            "updated_at": "2025-10-05 13:18:31"
+        },
+        {
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "巧儿",
+            "updated_at": "2025-10-05 13:18:09"
+        },
+        {
+            "url": "https://gitee.com/blssss/jk/raw/api/bls.json",
+            "name": "玩偶",
+            "updated_at": "2025-10-05 13:17:34"
+        },
+        {
+            "url": "http://ztha.top/TVBox/GYCK.json",
+            "name": "挺好",
+            "updated_at": "2025-10-05 13:16:07"
+        },
+        {
+            "url": "http://kxrj.site:55/开心软件",
+            "name": "天天开心",
+            "updated_at": "2025-10-05 13:14:58"
+        },
+        {
+            "url": "http://mdxgh.top:5555/dc.json",
+            "name": "码点",
+            "updated_at": "2025-10-05 13:14:42"
+        },
+        {
+            "url": "https://cdn.gitmirror.com/bb/xduo/libs/master/index.json",
+            "name": "道长",
+            "updated_at": "2025-10-04 21:53:19"
+        },
+        {
+            "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
+            "name": "小苹果",
+            "updated_at": "2025-10-04 21:52:53"
+        },
+        {
+            "url": "https://毒盒.com/tv",
+            "name": "毒盒",
+            "updated_at": "2025-10-04 21:52:14"
+        },
+        {
+            "url": "http://hb.小虎斑.site:25252/仅供测试",
+            "name": "小虎斑",
+            "updated_at": "2025-10-04 21:51:08"
+        },
+        {
+            "url": "https://9877.kstore.space/AnotherD/api.json",
+            "name": "潇洒",
+            "updated_at": "2025-10-04 21:50:32"
+        },
+        {
+            "url": "https://d.kstore.dev/download/15352/mj4.json",
+            "name": "18",
+            "updated_at": "2025-10-04 09:39:28"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
+            "name": "南风",
+            "updated_at": "2025-10-04 09:34:29"
+        },
+        {
+            "url": "http://ztha.top/TVBox/thdjk.json",
+            "name": "挺好",
+            "updated_at": "2025-10-04 09:32:04"
+        },
+        {
+            "url": "https://100km.top/0",
+            "name": "骚零",
+            "updated_at": "2025-10-04 09:31:53"
+        },
+        {
+            "url": "https://d.kstore.dev/download/15352/xiangyaqing.json",
+            "name": "香雅情",
+            "updated_at": "2025-10-09 16:48:49"
+        },
+        {
+            "url": "http://fmys.top/fmys.json",
+            "name": "驸马",
+            "updated_at": "2025-10-09 10:39:54"
+        },
+        {
+            "url": "http://tvkj.top/DC.txt",
+            "name": "天薇",
+            "updated_at": "2025-10-04 09:24:47"
+        },
+        {
+            "url": "http://我不是.摸鱼儿.com",
+            "name": "摸鱼4K",
+            "updated_at": "2025-10-04 09:22:06"
+        },
+        {
+            "url": "https://tv.菜妮丝.top",
+            "name": "菜妮丝",
+            "updated_at": "2025-10-04 09:19:21"
+        },
+        {
+            "url": "http://www.meowtv.vip",
+            "name": "喵喵",
+            "updated_at": "2025-10-04 09:17:57"
+        },
+        {
+            "url": "http://w.7080.wang/tv/1.json",
+            "name": "7080",
+            "updated_at": "2025-10-04 09:17:29"
+        },
+        {
+            "url": "https://盒子迷.top/禁止贩卖",
+            "name": "盒子迷",
+            "updated_at": "2025-10-04 09:17:06"
+        },
+        {
+            "url": "http://ok321.top/tv",
+            "name": "OK吊炸天",
+            "updated_at": "2025-10-04 09:16:28"
+        },
+        {
+            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+            "name": "王小二",
+            "updated_at": "2025-10-05 13:16:31"
+        },
+        {
+            "url": "https://www.xn--rgv465a.top/pro.json",
+            "name": "无界",
+            "updated_at": "2025-10-03 19:55:19"
+        },
+        {
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "巧技",
+            "updated_at": "2025-10-03 17:15:27"
+        },
+        {
+            "url": "https://d.kstore.dev/download/15352/mj1.json",
+            "name": "号卡天地",
+            "updated_at": "2025-10-03 17:13:51"
+        },
+        {
+            "url": "https://chuanshuo.77blog.cn/tv.json",
+            "name": "电视魔盒",
+            "updated_at": "2025-10-03 17:12:47"
+        },
+        {
+            "url": "http://www.饭太硬.net/tv",
+            "name": "饭太硬",
+            "updated_at": "2025-10-03 17:12:47"
+        },
+        {
+            "url": "http://肥猫.com",
+            "name": "肥猫",
+            "updated_at": "2025-10-03 17:12:47"
+        }
+    ]
+}
